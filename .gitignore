@@ -23,6 +23,9 @@ request.token
 recordings/
 *.avi
 
+# Cloned repositories (should use submodules if needed)
+ebiten/
+
 # IDE
 .vscode/
 .idea/
